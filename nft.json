@@ -1,0 +1,35 @@
+{
+    "name": "my nft",
+    "symbol": "sel_1",
+    "description": "eye in a flower",
+    "external_url": "https://disk.yandex.ru/i/QhzIxUOFBYU39g",
+    "image": "0.png",
+    "attributes":[
+        {
+            "trait_tape":"Eyes",
+            "value":"Big"
+        },
+
+        {
+           "trait_tape":"Level",
+            "value":"5"
+        },
+
+        {
+            "trait_tape":"Type",
+            "value":"Human"
+        },
+
+        {
+            "trait_tape":"Flower",
+            "value":"Sunflower"
+        },
+
+        {
+            "trait_tape":"Background",
+            "value":"Yellow"
+        }
+
+
+    ]
+}
